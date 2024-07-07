@@ -8,10 +8,9 @@ HTML: Learn how to structure web content using HTML tags.
 CSS: Explore styling techniques to make your pages visually appealing.
 JavaScript: Dive into basic JavaScript concepts for adding dynamic behavior.
 # Tools
-git: A tool for managing source code.
-Visual Studio Code: A source code editor.
-Live Server: A simple web server utility for Visual Studio Code.
-Echo Post: A Node.js server utility that displays post data.
+-git: A tool for managing source code.
+-Visual Studio Code: A source code editor.
+-Live Server: A simple web server utility for Visual Studio Code.
 
 ![slider-4](https://github.com/bernard-lab/image-slider/assets/61766380/2b9e2177-f61a-4f23-a16e-40d36d6514a4)
 ![slider-3](https://github.com/bernard-lab/image-slider/assets/61766380/0144fc52-7ecd-420c-8f05-69ef215fcd69)
